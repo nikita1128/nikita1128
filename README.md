@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @nikita1128
+- 👀 I’m interested in Data Science.
+- 🌱 I’m currently learning Data Science.
+- 📫 Reach me at nikitamaurya1197@gmail.com
